@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "name": "máy tính 3",
+      "image": "https://tinhocpnn.com/wp-content/uploads/2023/08/May-tinh-de-ban-Dell-tron-bo-i5-gen-10-man-22-inch-FHD-gia-re.webp",
+      "price": "23000",
+      "description": "bán đắt",
+      "id": 4
+    },
+    {
+      "name": "demo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBrQJZIWlflMXDnp5Ilk_9dHmhFd1MSPjZw&s",
+      "price": "344",
+      "description": "fgfg",
+      "id": 5
+    },
+    {
+      "name": "sp2",
+      "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_Danh_v%E1%BB%8Dng.png/200px-%C4%90%E1%BA%A5u_tr%C6%B0%E1%BB%9Dng_Danh_v%E1%BB%8Dng.png",
+      "price": "100",
+      "description": "",
+      "id": 6
+    },
+    {
+      "name": "sp2",
+      "image": "https://kienvuong.vn/wp-content/uploads/2023/09/kienvuong-kich-thuoc-anh-chuan-tren-website-moinhat.jpg",
+      "price": "12345",
+      "description": "",
+      "id": 7
+    },
+    {
+      "name": "sp3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmjcFTHIiPCkjqlV2KhzJvZIkaoNqOYhTUA&s",
+      "price": "2333",
+      "description": "",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "123321@gmail.com",
+      "password": "$2a$10$ZocvptvDdzUb3OweOuJ6aOaBBZ5wBzv0kGJqlNfAwFpFuCUg1y8/K",
+      "name": "Bằng",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "email": "doxuanbang14122005@gmail.com",
+      "password": "$2a$10$rVqYV1RgQ.5T7qkKf9jvBeXZ.R5WQvM6GDzZtzS99818YOOLVHLV6",
+      "name": "Bằng",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "bang1@gmail.com",
+      "password": "$2a$10$VoeKLCx0VdLtVhjRlS/GJOvaw5Re4.JnZUa0gMo/Xy6EAHz9bz5ha",
+      "name": "Bằng",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "bangkk@gmail.com",
+      "password": "$2a$10$FivVf0Thgha7SrkAuOwTx.87utIEnW7Un19tB2.k6AaIfZe1EN1/y",
+      "name": "Bằng",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "banghaha@gmail.com",
+      "password": "$2a$10$9wjV6AE/rkNOqQ0Tbhvobe97zzVjVJGbFY4vA9E/h5bUxLnIq/tC6",
+      "name": "Bằng",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "email": "banghihi@gmail.com",
+      "password": "$2a$10$fTsxPF7LDmYFqWcnPIhfh.sgxxaGlKYAs7TdB6.h6RVMw2q9mpL8q",
+      "name": "Bang",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "bang123@gmail.com",
+      "password": "$2a$10$stPJpx.H/C2zkO/SVzF24el5V/mEyuXXE0vK2GlfXSkZHL11UAMMS",
+      "name": "Bằng",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "email": "banguxui@gmail.com",
+      "password": "$2a$10$2oxTJ3qNNgHFzD/frnhVV.wAG6g7eEbPXRLU0.s1N5ow7fE5R8O5O",
+      "name": "bang",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "email": "bang@gmail.com",
+      "password": "$2a$10$fPM2RoccMZxHFM9pybo8Jef/8OCkZ9vvqtqECvz6yoPKOhZvvn7nu",
+      "name": "bang",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "email": "bangahihi@gmail.com",
+      "password": "$2a$10$fPM2RoccMZxHFM9pybo8Jef/8OCkZ9vvqtqECvz6yoPKOhZvvn7nu",
+      "name": "bang",
+      "role": "admin",
+      "id": 9
+    }
+  ]
+}
